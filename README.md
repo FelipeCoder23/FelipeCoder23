@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Felipe Alvarez</h1> 
-<h3 align="center">Mining Engineer turned Data Scientist/Analyst Passionate about data and sports, especially when they come together.</h3>
+<h3 align="center">Mining Engineer turned Data Scientist/Engineer Passionate about data and sports, especially when they come together.</h3>
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Programmer GIF" align="right" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecoder23&label=Profile%20views&color=0e75b6&style=flat" alt="felipecoder23" /> </p>
